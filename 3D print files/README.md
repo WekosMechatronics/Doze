@@ -1,4 +1,4 @@
-Soft cover print settings (for your reference):
+Protective cover print settings (for your reference):
   
 Filament: esun TPE 83A (black)  
 Layer height: 0.2 mm  
